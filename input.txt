@@ -1,0 +1,6 @@
+1 A,B,D,E
+2 A,C,D,E
+3 A,B,C,D,E
+4 A,B,E
+5 B,C,D,E
+6 B,C,E
